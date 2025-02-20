@@ -17,7 +17,7 @@ Hilert  ￥8.88
 ## 使用方法
 `在任意github仓库地址前面加上88两个数字，即可访问github仓库`
 
-![使用方法](assets/use.gif)
+<img src="/assets/use.gif" width="280px" >
 
 ## 其他信息
 建设中
