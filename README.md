@@ -36,7 +36,8 @@ Hilert  ￥8.88
 <img src="/assets/dashang.png" width="280px" >
 
 爱发电：
-https://ifdian.net/a/88github
+https://afdian.com/a/88github/plan
+
 
 ## 宗旨
 
