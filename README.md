@@ -33,7 +33,7 @@ Hilert  ￥8.88
 ## 赞助
 赞助本站，有利于，可以用微信扫描以下链接
 
-![alt text](assets/dashang.png)
+<img src="https://github.com/project88-git/88github/blob/master/assets/dashang.png" width="280px" >
 
 
 ## 宗旨
